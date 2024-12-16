@@ -18,12 +18,12 @@ Welcome to my little corner of the tech universe! ✨
 ---
 
 #### Let's Connect:
-- 📧 Reach me at: [Your Email Address].
+- 📧 Reach me at: prathamesh.tikle@dpcoepune.edu.in
 - 🌎 Open to collaborations and sharing cool ideas!
 
 ---
 
-> _"The best way to predict the future is to create it."_ — **Alan Kay**
+> _"The best way to predict the future is to create it."_ 
 
 ---
 
