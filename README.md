@@ -4,6 +4,12 @@ Welcome to my little corner of the tech universe! ✨
 
 ---
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Cybersecurity+Enthusiast;Tech+Explorer;Open+to+Collaborations)](https://git.io/typing-svg)  
+
+---
+
+---
+
 #### About Me:
 - 🌟 **Second-Year Computer Engineering Student**.
 - 🛡️ Passionate about **Cybersecurity**.
