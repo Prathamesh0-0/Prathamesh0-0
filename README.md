@@ -32,7 +32,11 @@ Welcome to my little corner of the tech universe! ✨
 ---
 
 #### Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social) ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sqlite&logoColor=white) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0078D4?style=for-the-badge&logo=security&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0078D4?style=for-the-badge&logo=security&logoColor=white)
 
 ---
 
