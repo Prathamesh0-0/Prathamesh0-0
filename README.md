@@ -8,8 +8,6 @@ Welcome to my little corner of the tech universe! ✨
 
 ---
 
----
-
 #### About Me:
 - 🌟 **Second-Year Computer Engineering Student**.
 - 🛡️ Passionate about **Cybersecurity**.
@@ -34,7 +32,7 @@ Welcome to my little corner of the tech universe! ✨
 ---
 
 #### Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sqlite&logoColor=white) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0078D4?style=for-the-badge&logo=security&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social) ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sqlite&logoColor=white) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0078D4?style=for-the-badge&logo=security&logoColor=white)
 
 ---
 
