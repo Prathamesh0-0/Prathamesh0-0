@@ -9,7 +9,7 @@ Welcome to my little corner of the tech universe! ✨
 ---
 
 #### About Me:
-- 🌟 **Second-Year Computer Engineering Student**.
+- 🌟 **Third-Year Computer Engineering Student**.
 - 🛡️ Passionate about **Cybersecurity**.
 - 🌐 Exploring the intersection of **technology** and **creativity** to build solutions for real-world problems.
 
