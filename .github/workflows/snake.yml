@@ -1,0 +1,42 @@
+name: Contribution snake
+
+# Draws the contribution graph as an animated SVG and publishes it to the "output" branch,
+# which the README reads from. Runs once a day, on every push to main, and on demand.
+on:
+  schedule:
+    - cron: "17 1 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: snake
+  cancel-in-progress: true
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Draw the snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=#17120a&color_dots=#ebedf0,#f6dfa6,#f0c766,#e0a92e,#b97f0f
+            dist/snake-dark.svg?color_snake=#f0b73f&color_dots=#151a22,#4a3a12,#86651c,#c08f2c,#f0b73f
+
+      - name: Publish to the output branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd dist
+          git init -q -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -q -m "Update contribution snake"
+          git push -q --force "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" output
